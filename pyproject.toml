@@ -1,0 +1,25 @@
+[project]
+name = "reasoning-and-agents-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.3.2",
+    "ipywidgets>=8.1.5",
+    "jupyterlab>=4.3.5",
+    "langchain>=0.3.19",
+    "langchain-chroma>=0.2.2",
+    "langchain-community>=0.3.18",
+    "langchain-google-genai>=2.0.11",
+    "langchain-huggingface>=0.1.2",
+    "langchain-ollama>=0.2.3",
+    "langchain-openai>=0.3.7",
+    "langgraph>=0.3.2",
+    "matplotlib>=3.10.1",
+    "numexpr>=2.10.2",
+    "pygame>=2.6.1",
+    "pymupdf>=1.25.3",
+    "unstructured>=0.16.23",
+    "wikipedia>=1.4.0",
+]
